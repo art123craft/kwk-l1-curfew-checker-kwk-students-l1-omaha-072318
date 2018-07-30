@@ -2,7 +2,7 @@ def simple_curfew_checker(time)
 if time >= 7 && time < 11
   		puts "You're in trouble! Better get home quick!"
 elsif time >= 11 && time <17
- 		puts "Good afternoon!"
+ 		puts "You're in trouble! Better get home quick!"
 elsif time >= 17 && time < 20        
  		puts "Good evening!"
 else
