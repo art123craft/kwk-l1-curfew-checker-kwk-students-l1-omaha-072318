@@ -3,8 +3,6 @@ if time == 11
   		puts "You're in trouble! Better get home quick!"
 elsif time < 11 
  		puts "You're in trouble! Better get home quick!"
-elsif time >= 17 && time < 20        
- 		puts "Good evening!"
 else
   		puts "Good night!"
 end
