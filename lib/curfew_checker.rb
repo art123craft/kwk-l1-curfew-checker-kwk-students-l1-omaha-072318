@@ -1,6 +1,6 @@
 def simple_curfew_checker(time)
 if time >= 7 && time < 11
-  		puts "Good morning!"
+  		puts ""
 elsif time >= 11 && time <17
  		puts "Good afternoon!"
 elsif time >= 17 && time < 20        
